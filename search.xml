@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2023/04/24/hello-world/</url>
+    <url>/posts/16107.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start">Quick Start</h2>
 <h3 id="Create-a-new-post">Create a new post</h3>
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <title>测试</title>
-    <url>/2023/04/25/%E6%B5%8B%E8%AF%95/</url>
+    <url>/posts/37773.html</url>
     <content><![CDATA[<h1>标签外挂（Tag Plugins）</h1>
 <h2 id="Note-Bootstrap-Callout">Note (Bootstrap Callout)</h2>
 <figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% note &#x27;fab fa-cc-visa&#x27; flat %&#125;</span><br><span class="line">你是刷 Visa 还是 UnionPay</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
