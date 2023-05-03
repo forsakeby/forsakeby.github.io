@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://peninsula.eu.org/categories/index.html</loc>
+    
+    <lastmod>2023-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peninsula.eu.org/gallery/index.html</loc>
+    
+    <lastmod>2023-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peninsula.eu.org/link/index.html</loc>
+    
+    <lastmod>2023-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peninsula.eu.org/tags/index.html</loc>
+    
+    <lastmod>2023-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peninsula.eu.org/posts/4a17b156.html</loc>
     
     <lastmod>2023-04-30</lastmod>
@@ -11,45 +47,9 @@
   </url>
   
   <url>
-    <loc>https://peninsula.eu.org/gallery/index.html</loc>
-    
-    <lastmod>2023-04-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peninsula.eu.org/posts/9daba997.html</loc>
     
     <lastmod>2023-04-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peninsula.eu.org/link/index.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peninsula.eu.org/categories/index.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peninsula.eu.org/tags/index.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
