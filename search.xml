@@ -18,6 +18,12 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>官方</tag>
+      </tags>
   </entry>
   <entry>
     <title>测试</title>
@@ -83,7 +89,7 @@
 <h2 id="Gallery相册">Gallery相册</h2>
 <div class="gallery">
     <div class="fj-gallery  data" data-rowHeight="220" data-limit="10">
-    <span class="gallery-data">[{"url":"https://i.328888.xyz/2023/04/27/i9bibq.jpeg","alt":""},{"url":"https://i.328888.xyz/2023/04/27/i9bOxZ.jpeg","alt":""},{"url":"https://i.328888.xyz/2023/04/27/i9bIRQ.jpeg","alt":""},{"url":"https://i.328888.xyz/2023/04/27/i9b3fC.png","alt":""},{"url":"https://img.gejiba.com/images/c196ed5df67f5a4c80afc5d1eda10bd7.jpg","alt":""},{"url":"https://img.gejiba.com/images/6dbf797f1de120b8c9ec8df51eb7fc25.jpg","alt":""},{"url":"https://img.gejiba.com/images/5376b19041cd15e646f211cb56e850b8.png","alt":""},{"url":"https://img.gejiba.com/images/7c7985b2df901f24d6bac53c35560c4a.png","alt":""}]</span>
+    <span class="gallery-data">[{"url":"https://img.gejiba.com/images/c196ed5df67f5a4c80afc5d1eda10bd7.jpg","alt":""},{"url":"https://img.gejiba.com/images/6dbf797f1de120b8c9ec8df51eb7fc25.jpg","alt":""},{"url":"https://img.gejiba.com/images/5376b19041cd15e646f211cb56e850b8.png","alt":""},{"url":"https://img.gejiba.com/images/7c7985b2df901f24d6bac53c35560c4a.png","alt":""}]</span>
     </div>
     <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>
     </div>
@@ -148,8 +154,8 @@ C4 z4 ] | [3 D2 D2 D2 E2 | C4 z4 ] :| </div>
         <category>日常</category>
       </categories>
       <tags>
-        <tag>PS3</tag>
-        <tag>Games</tag>
+        <tag>测试</tag>
+        <tag>学习</tag>
       </tags>
   </entry>
 </search>
