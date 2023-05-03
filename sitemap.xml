@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://peninsula.eu.org/tags/index.html</loc>
+    <loc>https://peninsula.eu.org/categories/index.html</loc>
     
     <lastmod>2023-05-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://peninsula.eu.org/categories/index.html</loc>
+    <loc>https://peninsula.eu.org/essay/index.html</loc>
     
     <lastmod>2023-05-03</lastmod>
     
@@ -30,6 +30,15 @@
   
   <url>
     <loc>https://peninsula.eu.org/link/index.html</loc>
+    
+    <lastmod>2023-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peninsula.eu.org/tags/index.html</loc>
     
     <lastmod>2023-05-03</lastmod>
     
