@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://peninsula.eu.org/tags/index.html</loc>
+    
+    <lastmod>2023-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peninsula.eu.org/categories/index.html</loc>
     
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://peninsula.eu.org/essay/index.html</loc>
     
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://peninsula.eu.org/gallery/index.html</loc>
     
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,16 +40,7 @@
   <url>
     <loc>https://peninsula.eu.org/link/index.html</loc>
     
-    <lastmod>2023-05-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peninsula.eu.org/tags/index.html</loc>
-    
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://peninsula.eu.org/</loc>
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +75,21 @@
   
   <url>
     <loc>https://peninsula.eu.org/tags/%E5%AE%98%E6%96%B9/</loc>
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peninsula.eu.org/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peninsula.eu.org/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -98,14 +98,14 @@
   
   <url>
     <loc>https://peninsula.eu.org/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://peninsula.eu.org/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
